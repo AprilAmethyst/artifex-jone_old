@@ -1,3 +1,2 @@
 # artifex-jone
-# artifex-jone
-# artifex-jone
+A website by Jone G
