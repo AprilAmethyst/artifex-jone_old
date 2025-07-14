@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 10%;
+    display: block;
+    margin: auto;
+    clip-path: circle();
+}
